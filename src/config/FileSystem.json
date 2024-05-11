@@ -1,0 +1,47 @@
+[
+  {
+    "name": "folder1",
+    "parentName": "root",
+    "isFile": false
+  },
+  {
+    "name": "my-document",
+    "parentName": "folder1",
+    "isFile": true
+  },
+  {
+    "name": "my-document-2",
+    "parentName": "folder1",
+    "isFile": true
+  },
+  {
+    "name": "folder2",
+    "parentName": "folder1",
+    "isFile": false
+  },
+  {
+    "name": "my-document-3",
+    "parentName": "folder2",
+    "isFile": true
+  },
+  {
+    "name": "my-document-4",
+    "parentName": "folder2",
+    "isFile": true
+  },
+  {
+    "name": "folder3",
+    "parentName": "folder2",
+    "isFile": false
+  },
+  {
+    "name": "my-document-5",
+    "parentName": "folder3",
+    "isFile": true
+  },
+  {
+    "name": "my-document-6",
+    "parentName": "folder3",
+    "isFile": true
+  }
+]

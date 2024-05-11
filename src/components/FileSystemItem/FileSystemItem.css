@@ -1,0 +1,18 @@
+.file-system__item {
+  padding-left: 1rem;
+
+  .file-system__item__name {
+    border: none;
+    background: none;
+    padding: 0;
+    margin-bottom: 0.75rem;
+
+    &:focus {
+      outline: none;
+    }
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
